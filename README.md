@@ -2,7 +2,7 @@
 
 ## About
 
-Printer App is a Windows desktop application for print shop retailers. It connects to a central backend service, automatically receives print jobs submitted by customers, and dispatches them to the correct local printer — all without manual intervention.
+Printer App is a desktop application for print shop retailers. It connects to a central backend service, automatically receives print jobs submitted by customers, and dispatches them to the correct local printer — all without manual intervention.
 
 The app runs in the background, polls for new jobs, downloads the print file, applies your configured printer policies, sends the job to the right printer, and reports the result back to the backend. Retailers interact with the dashboard to monitor live job status, manage printers and policies, and handle any exceptions.
 
